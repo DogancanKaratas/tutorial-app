@@ -1,4 +1,22 @@
 
+
+This web application serves as a platform for managing and presenting tutorials. It's designed to help users efficiently organize and access educational content, featuring functionalities for adding, editing, and listing tutorials. The application aims to streamline the learning process by providing a user-friendly interface for managing educational materials.
+
+## Features
+- Interactive coding tutorials.
+- Detailed explanations of full-stack concepts.
+- Practical, hands-on learning exercises.
+
+## Technologies
+- Developed using React.js.
+- Styled with Bootstrap.
+  
+## Contact
+- Yazar: [Doğancan KARATAŞ]
+- LinkedIn: [https://www.linkedin.com/in/dogancan-karatas/]
+- E-posta: [karatasdgncn21@gmail.com]
+
+
 ### API ENDPOINTS
 
 - GET `tutorials/` get all Tutorials
